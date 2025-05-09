@@ -8,7 +8,7 @@ Hi! My name is Kirill Klimenko, and I'm a student at an academy in Poland, major
 
 * 🌍  I'm based in Poland
 * ✉️  You can contact me at [kirusaklimenko@gmail.com](mailto:kirusaklimenko@gmail.com)
-* 🤝  I'm open to collaborating on Открыт к сотрудничеству по проектам, связанным с веб-разработкой, особенно во фронтенде и фулстеке.
+* 🤝  I am open to collaboration on projects related to web development, especially in frontend and full-stack.
 
 ### Skills
 

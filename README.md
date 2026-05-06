@@ -48,6 +48,3 @@ I'm a Computer Science student in Poland with a passion for building clean, user
   <img src="https://github-readme-stats.vercel.app/api?username=KirusaK&show_icons=true&theme=radical&hide_border=true" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KirusaK&theme=radical&hide_border=true" height="170" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirusaK&layout=compact&theme=radical&hide_border=true" height="170" />
-</p>

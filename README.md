@@ -3,12 +3,13 @@
 ### 🎓 Academy Student | Future Full-Stack Developer
 I'm a Computer Science student in Poland with a passion for building clean, user-friendly web applications. Currently, I'm focusing on mastering the React ecosystem and refining my backend skills.
 
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/ТВОЙ_НИК_НА_CODEWARS)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/Kirusa)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirusaklimenko@gmail.com)
 
 ---
 
 ### 📊 GitHub & Coding Activity
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=KirusaK&show_icons=true&theme=radical&hide_border=true" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KirusaK&theme=radical&hide_border=true" height="150" />
@@ -20,6 +21,7 @@ I'm a Computer Science student in Poland with a passion for building clean, user
 ### 🛠️ My Tech Stack
 
 **Frontend**
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -27,9 +29,11 @@ I'm a Computer Science student in Poland with a passion for building clean, user
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 **Backend & Database**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Tools & Dev Ecosystem**
+
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)

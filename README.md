@@ -3,21 +3,8 @@
 ### 🎓 Academy Student | Future Full-Stack Developer
 I'm a Computer Science student in Poland with a passion for building clean, user-friendly web applications. Currently, I'm focusing on mastering the React ecosystem and refining my backend skills.
 
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/KirusaKlim)
-![Codewars Rank](https://www.codewars.com/users/KirusaKlim/badges/micro)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/Kirusa)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirusaklimenko@gmail.com)
-
----
-
-### 📊 GitHub & Coding Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KirusaKlim&show_icons=true&theme=radical&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KirusaKlim&theme=radical&hide_border=true" height="170" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirusaKlim&layout=compact&theme=radical&hide_border=true" height="170" />
-</p>
 
 ---
 
@@ -52,3 +39,15 @@ I'm a Computer Science student in Poland with a passion for building clean, user
 - 🎓 **Diploma Project:** Developing a comprehensive **Tourism Website** using modern web technologies.
 - 🏗️ Building personal experiments to strengthen my Full Stack knowledge.
 - 🌍 Living and studying in **Poland**.
+
+---
+
+### 📊 GitHub & Coding Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KirusaK&show_icons=true&theme=radical&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KirusaK&theme=radical&hide_border=true" height="170" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirusaK&layout=compact&theme=radical&hide_border=true" height="170" />
+</p>
